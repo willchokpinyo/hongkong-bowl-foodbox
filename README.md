@@ -16,3 +16,8 @@
 ## ลิงก์ตรงแต่ละหน้า (เอาไปใส่ใน LINE / IG bio ได้)
 - `index.html#/catering`
 - `index.html#/foodbox/120`
+
+## เว็บจริง (GitHub Pages)
+- ลิงก์: https://willchokpinyo.github.io/hongkong-bowl-foodbox/
+- Repo: https://github.com/willchokpinyo/hongkong-bowl-foodbox
+- อัปเดตเว็บ: แก้ไฟล์ → `git add -A && git commit -m "..." && git push` → เว็บอัปเดตเองใน ~1 นาที
